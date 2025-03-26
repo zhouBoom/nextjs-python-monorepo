@@ -1,0 +1,402 @@
+[
+  {
+    "code": "600558",
+    "name": "大西洋",
+    "score": 273,
+    "change": -1.94,
+    "open_rise": 10.0529,
+    "price": 5.56
+  },
+  {
+    "code": "603011",
+    "name": "合锻智能",
+    "score": 273,
+    "change": 9.9644,
+    "open_rise": 9.9644,
+    "price": 12.36
+  },
+  {
+    "code": "002427",
+    "name": "尤夫股份",
+    "score": 266,
+    "change": 9.9237,
+    "open_rise": 9.9237,
+    "price": 5.76
+  },
+  {
+    "code": "002366",
+    "name": "融发核电",
+    "score": 245,
+    "change": 0.7105,
+    "open_rise": 7.2824,
+    "price": 5.67
+  },
+  {
+    "code": "300963",
+    "name": "中洲特材",
+    "score": 245,
+    "change": 0.1675,
+    "open_rise": 7.1189,
+    "price": 11.96
+  },
+  {
+    "code": "000633",
+    "name": "合金投资",
+    "score": 244,
+    "change": 9.919,
+    "open_rise": 9.919,
+    "price": 5.43
+  },
+  {
+    "code": "300871",
+    "name": "回盛生物",
+    "score": 243,
+    "change": 20.0274,
+    "open_rise": 15.4321,
+    "price": 17.5
+  },
+  {
+    "code": "688591",
+    "name": "泰凌微",
+    "score": 238,
+    "change": 20.0,
+    "open_rise": 11.0465,
+    "price": 41.28
+  },
+  {
+    "code": "603709",
+    "name": "中源家居",
+    "score": 223,
+    "change": -4.4586,
+    "open_rise": 9.9522,
+    "price": 12.0
+  },
+  {
+    "code": "300995",
+    "name": "奇德新材",
+    "score": 219,
+    "change": 20.0,
+    "open_rise": 8.866,
+    "price": 23.28
+  },
+  {
+    "code": "600610",
+    "name": "中毅达",
+    "score": 214,
+    "change": 9.9585,
+    "open_rise": 8.4025,
+    "price": 10.6
+  },
+  {
+    "code": "300198",
+    "name": "纳川股份",
+    "score": 206,
+    "change": 20.1646,
+    "open_rise": 7.8189,
+    "price": 2.92
+  },
+  {
+    "code": "002146",
+    "name": "荣盛发展",
+    "score": 198,
+    "change": 10.274,
+    "open_rise": 10.274,
+    "price": 1.61
+  },
+  {
+    "code": "002842",
+    "name": "翔鹭钨业",
+    "score": 193,
+    "change": -0.419,
+    "open_rise": 4.7486,
+    "price": 7.13
+  },
+  {
+    "code": "000958",
+    "name": "电投产融",
+    "score": 190,
+    "change": 10.087,
+    "open_rise": 3.4783,
+    "price": 6.33
+  },
+  {
+    "code": "300927",
+    "name": "江天化学",
+    "score": 186,
+    "change": 20.0,
+    "open_rise": 1.6064,
+    "price": 29.88
+  },
+  {
+    "code": "000923",
+    "name": "河钢资源",
+    "score": 185,
+    "change": 0.4911,
+    "open_rise": 2.8852,
+    "price": 16.37
+  },
+  {
+    "code": "603285",
+    "name": "键邦股份",
+    "score": 183,
+    "change": 9.9962,
+    "open_rise": 9.0532,
+    "price": 29.16
+  },
+  {
+    "code": "301500",
+    "name": "飞南资源",
+    "score": 182,
+    "change": 5.5478,
+    "open_rise": 2.5175,
+    "price": 22.64
+  },
+  {
+    "code": "002986",
+    "name": "宇新股份",
+    "score": 180,
+    "change": 0.9726,
+    "open_rise": 2.5641,
+    "price": 11.42
+  },
+  {
+    "code": "600363",
+    "name": "联创光电",
+    "score": 180,
+    "change": -1.1438,
+    "open_rise": 2.1895,
+    "price": 60.5
+  },
+  {
+    "code": "301137",
+    "name": "哈焊华通",
+    "score": 179,
+    "change": 11.6145,
+    "open_rise": 5.0247,
+    "price": 27.1
+  },
+  {
+    "code": "300510",
+    "name": "金冠股份",
+    "score": 179,
+    "change": 2.6667,
+    "open_rise": 3.3333,
+    "price": 4.62
+  },
+  {
+    "code": "002734",
+    "name": "利民股份",
+    "score": 176,
+    "change": 3.619,
+    "open_rise": 1.9048,
+    "price": 10.88
+  },
+  {
+    "code": "002255",
+    "name": "海陆重工",
+    "score": 174,
+    "change": 1.7766,
+    "open_rise": 5.3299,
+    "price": 8.02
+  },
+  {
+    "code": "603169",
+    "name": "兰石重装",
+    "score": 171,
+    "change": 5.1163,
+    "open_rise": 3.876,
+    "price": 6.78
+  },
+  {
+    "code": "300541",
+    "name": "先进数通",
+    "score": 171,
+    "change": 2.5773,
+    "open_rise": 3.5346,
+    "price": 13.93
+  },
+  {
+    "code": "000056",
+    "name": "皇庭国际",
+    "score": 171,
+    "change": 3.7433,
+    "open_rise": 1.3369,
+    "price": 3.88
+  },
+  {
+    "code": "601061",
+    "name": "中信金属",
+    "score": 162,
+    "change": 1.2755,
+    "open_rise": 0.6378,
+    "price": 7.94
+  },
+  {
+    "code": "301479",
+    "name": "弘景光电",
+    "score": 159,
+    "change": 0.2319,
+    "open_rise": 3.5454,
+    "price": 121.0
+  },
+  {
+    "code": "300233",
+    "name": "金城医药",
+    "score": 156,
+    "change": -1.2868,
+    "open_rise": 3.4007,
+    "price": 21.48
+  },
+  {
+    "code": "601608",
+    "name": "中信重工",
+    "score": 154,
+    "change": 10.0901,
+    "open_rise": 1.6216,
+    "price": 6.11
+  },
+  {
+    "code": "300426",
+    "name": "唐德影视",
+    "score": 153,
+    "change": 4.3269,
+    "open_rise": 3.8462,
+    "price": 10.85
+  },
+  {
+    "code": "603015",
+    "name": "弘讯科技",
+    "score": 153,
+    "change": 3.4232,
+    "open_rise": 1.9665,
+    "price": 14.2
+  },
+  {
+    "code": "600918",
+    "name": "中泰证券",
+    "score": 151,
+    "change": 2.4845,
+    "open_rise": 1.7081,
+    "price": 6.6
+  },
+  {
+    "code": "600276",
+    "name": "恒瑞医药",
+    "score": 150,
+    "change": 3.031,
+    "open_rise": 2.9641,
+    "price": 46.23
+  },
+  {
+    "code": "000960",
+    "name": "锡业股份",
+    "score": 150,
+    "change": 0.4473,
+    "open_rise": 2.1725,
+    "price": 15.72
+  },
+  {
+    "code": "603585",
+    "name": "苏利股份",
+    "score": 149,
+    "change": 3.4554,
+    "open_rise": 5.0449,
+    "price": 14.97
+  },
+  {
+    "code": "600105",
+    "name": "永鼎股份",
+    "score": 148,
+    "change": -4.1322,
+    "open_rise": 1.7906,
+    "price": 6.96
+  },
+  {
+    "code": "301082",
+    "name": "久盛电气",
+    "score": 146,
+    "change": 3.7313,
+    "open_rise": 3.2721,
+    "price": 18.07
+  },
+  {
+    "code": "000422",
+    "name": "湖北宜化",
+    "score": 146,
+    "change": -1.7274,
+    "open_rise": 1.0877,
+    "price": 15.36
+  },
+  {
+    "code": "300726",
+    "name": "宏达电子",
+    "score": 141,
+    "change": -0.6511,
+    "open_rise": -0.4823,
+    "price": 41.2
+  },
+  {
+    "code": "603289",
+    "name": "泰瑞机器",
+    "score": 140,
+    "change": -0.0937,
+    "open_rise": 4.9672,
+    "price": 10.66
+  },
+  {
+    "code": "301092",
+    "name": "争光股份",
+    "score": 139,
+    "change": 0.9185,
+    "open_rise": 1.99,
+    "price": 26.37
+  },
+  {
+    "code": "002174",
+    "name": "游族网络",
+    "score": 139,
+    "change": -1.2526,
+    "open_rise": 0.5219,
+    "price": 9.46
+  },
+  {
+    "code": "600789",
+    "name": "鲁抗医药",
+    "score": 138,
+    "change": 10.0202,
+    "open_rise": 3.0364,
+    "price": 10.87
+  },
+  {
+    "code": "603969",
+    "name": "银龙股份",
+    "score": 138,
+    "change": 1.0853,
+    "open_rise": 0.9302,
+    "price": 6.52
+  },
+  {
+    "code": "603071",
+    "name": "物产环能",
+    "score": 137,
+    "change": 0.7764,
+    "open_rise": 2.0963,
+    "price": 12.98
+  },
+  {
+    "code": "300179",
+    "name": "四方达",
+    "score": 136,
+    "change": -2.6201,
+    "open_rise": -0.4367,
+    "price": 11.15
+  },
+  {
+    "code": "301136",
+    "name": "招标股份",
+    "score": 136,
+    "change": 1.597,
+    "open_rise": -0.8365,
+    "price": 13.36
+  }
+]
