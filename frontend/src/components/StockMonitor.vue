@@ -122,10 +122,10 @@
   }
   
   .up {
-    color: #28a745;
+    color: #dc3545;
   }
   
   .down {
-    color: #dc3545;
+    color: #28a745;
   }
   </style>
